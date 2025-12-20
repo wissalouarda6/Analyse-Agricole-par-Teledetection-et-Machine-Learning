@@ -1,5 +1,6 @@
 # Projet d'Analyse Agricole : Recommandation de Cultures et Analyse des Indices Spectraux
-
+## Original file is located at
+    https://colab.research.google.com/drive/12ZyNXmD0mL_yLEu1KP-Mya-NWY0yKHcm
 ## Vue d'ensemble du projet
 
 Ce projet d'analyse agricole combine l'apprentissage automatique, la télédétection et l'analyse spatiale pour fournir des recommandations intelligentes de cultures basées sur les conditions du sol, les données climatiques et l'imagerie satellite. Le projet intègre trois composantes analytiques majeures pour fournir des informations exploitables pour la prise de décision agricole.
